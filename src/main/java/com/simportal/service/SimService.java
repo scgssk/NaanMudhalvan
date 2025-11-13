@@ -12,7 +12,8 @@ public class SimService {
     private static final String[] VALID_ICCIDS = {
         "8901260123456789012",
         "8901260987654321098",
-        "8901260112233445566"
+        "8901260112233445566",
+        "123"
     };
 
     public boolean isValidIccId(String iccId) {
